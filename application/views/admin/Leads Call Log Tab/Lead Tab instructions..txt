@@ -1,0 +1,9 @@
+To get the Call Log tab on the Lead we had to create a webhook, because Shopini doesn’t allow it. 
+Remember to back up the existing file before you carry out the steps below. 
+If you dont know what you doing we can support you or you can get a developer to do that.
+
+Step 1. Download a ftp client
+Step 2. locate this path /application/views/admin/leads/
+Step 3. overwrite the existing file the attach file “lead.php”
+
+Done
