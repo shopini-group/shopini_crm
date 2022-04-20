@@ -1,3 +1,5 @@
 modules/file_sharing/uploads/Main File Sharing/.tmb
 uploads
 media
+.htaccess
+application/config/app-config.php
